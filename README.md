@@ -36,6 +36,11 @@ https://user-images.githubusercontent.com/128597230/233639343-1ba96d49-d1fa-46be
 
  ## 게시판 글 수정 & 삭제 구현 
  
+
+https://user-images.githubusercontent.com/128597230/233639718-20a0e5e9-6a8d-409a-8f92-5044a1d10b5e.mp4
+
+
+ 
  ## 댓글 CRUD 구현 
 
   
