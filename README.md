@@ -22,3 +22,15 @@
 - Eclipse Web Developer Tools 3.24
 - Spring Tools 3 (Standalone Edition) 3.9.14.RELEASE
 - Spring Tools 3 Add-On for Spring Tools 4 (3.9.22.RELEASE)
+
+ # 오류 & 에러 에피소드 
+ - 404 , 500 에러 
+ - 어노테이션의 중요성 
+ - 전반적인 기본 설정의 중요성 
+ - 오타로 인해 에러 발생으로 인한 클린코드 & 리팩토링에 대해서 다시 한번 생각하게 된 계기 
+  
+ # 구현 영상 
+  
+# 전반적인 프론트 디자인 및 Bootstrap 준비중 ~
+  
+# 로그인,로그아웃, 회원가입 Update 준비중 ~
