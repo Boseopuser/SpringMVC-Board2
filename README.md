@@ -45,5 +45,11 @@ https://user-images.githubusercontent.com/128597230/233639718-20a0e5e9-6a8d-409a
 
   
 # 전반적인 프론트 디자인 및 Bootstrap 준비중 ~
+ 
+
+https://user-images.githubusercontent.com/128597230/233932922-4036c83d-785c-47fe-b039-7abcfee0d5d9.mp4
+
+
+ 
   
 # 로그인,로그아웃, 회원가입 Update 준비중 ~
